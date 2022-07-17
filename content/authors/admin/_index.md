@@ -14,7 +14,7 @@ organizations:
     url: http://tcs.nju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m a second-year Ph.D student in the [theory group of Nanjing University](http://tcs.nju.edu.cn/). I am fortunate to have [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/) be my advisor. 
+bio: I’m a second-year Ph.D student in the theory group of Nanjing University. My research interest lies in a broad aspect of computer science. Currently, I am focusing on algorithms for counting and sampling.
 
 # Interests to show in About widget
 interests:
