@@ -11,16 +11,16 @@ role: Ph.D Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Theory Group, Nanjing University
-    url: tcs.nju.edu.cn
+    url: https://tcs.nju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I’m a second-year Ph.D student in the [theory group of Nanjing University](tcs.nju.edu.cn). I am fortunate to have [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/) be my advisor. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Algorithms for counting and sampling
+  - Computational phase transitions 
+  - Probabilistic methods
 
 # Education to show in About widget
 education:
