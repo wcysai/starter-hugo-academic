@@ -16,7 +16,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: wcysai at smail dot nju dot edu dot com
-  address: Nanjing University Xianlin Campus
+  address: 
     street: Xianlin Avenue 163
     city: Nanjing
     region: Jiangsu
