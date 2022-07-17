@@ -28,7 +28,7 @@ content:
   email: wcysai@smail.nju.edu
   phone: +8613770780648
   address:
-    street: Xianlin Avenue
+    street: 163 Xianlin Street
     city: Nanjing
     region: Jiangsu
     postcode: '210023'
