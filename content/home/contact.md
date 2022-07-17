@@ -25,15 +25,15 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: wcysai@foxmail.com
+  phone: 137 707 80648
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Xianlian Avenue 163
+    city: Nanjing
+    region: Jiangsu
+    postcode: '210023'
+    country: China
+    country_code: CN
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
