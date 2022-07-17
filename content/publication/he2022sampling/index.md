@@ -24,9 +24,15 @@ publishDate: '2021-04-04T08:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in *FOCS 2022*
+publication: To appear in **FOCS 2022*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We give a fast algorithm for sampling uniform solutions of *general* constraint satisfaction problems (CSPs) in a local lemma regime.
+The expected running time of our algorithm is near-linear in $n$ and a fixed polynomial in $\Delta$, 
+where $n$ is the number of variables and $\Delta$ is the max degree of constraints.
+Previously, up to similar conditions,
+sampling algorithms with running time polynomial in both $n$ and $\Delta$, 
+only existed for the almost atomic case, 
+where each constraint is violated by a small number of forbidden local configurations.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
