@@ -65,3 +65,5 @@ highlight_name: true
 ---
 
 I’m a second-year Ph.D student in the [theory group of Nanjing University](tcs.nju.edu.cn). I am fortunate to have [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/) be my advisor. 
+
+My research intersect lies on broad aspect of computer science. Currently I am focusing on algorithms for counting and sampling.
