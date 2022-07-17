@@ -6,7 +6,7 @@ title: 'Sampling Lovász Local Lemma For General Constraint Satisfaction Solutio
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Kun He
-  - **Chunyang Wang**
+  - Chunyang Wang
   - [Yitong Yin](http://tcs.nju.edu.cn/)
 
 # Author notes (optional)
