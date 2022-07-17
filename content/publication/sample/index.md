@@ -23,7 +23,7 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in *FOCS 2022*
+publication_short: To appear in *FOCS 2022*
 
 abstract: We give a fast algorithm for sampling uniform solutions of *general* constraint satisfaction problems (CSPs) in a local lemma regime.
 #
