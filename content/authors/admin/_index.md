@@ -10,8 +10,8 @@ role: Ph.D Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Theory Group, Nanjing University
-    url: http://tcs.nju.edu.cn/
+  - name: Nanjing University
+    url: http://nju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a second-year Ph.D student in the Theory Group in the Department of Computer Science and Technology at Nanjing University. My research interest lies in a broad aspect of computer science. Currently, I am focusing on algorithms for counting and sampling.
