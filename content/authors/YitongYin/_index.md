@@ -20,6 +20,7 @@ bio: I am a professor in the Theory Group in the Department of Computer Science 
 
 
 social:
+  - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=IV49eb4AAAAJ&hl=en&oi=sra
   - icon: link
