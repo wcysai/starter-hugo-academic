@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: wcysai@smail.nju.edu
-  phone: +8613770780648
+  phone: 13770780648
   address:
     street: 163 Xianlin Street
     city: Nanjing
