@@ -1,5 +1,5 @@
 ---
-title: 'Sampling Lovász Local Lemma For General Constraint Satisfaction Solutions In Near-Linear Time'
+title: 'Sampling Lovász Local Lemma for General Constraint Satisfaction Solutions in Near-Linear Time'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
