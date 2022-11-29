@@ -1,5 +1,5 @@
 ---
-title: 'Sampling Lovász Local Lemma for General Constraint Satisfaction Solutions in Near-Linear Time'
+title: 'Deterministic counting Lovász local lemma beyond linear programming'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -11,11 +11,11 @@ authors:
 
 # Author notes (optional)
 
-date: '2022-04-04T08:00:00Z'
+date: '2022-10-17T08:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-04-04T08:00:00Z'
+publishDate: '2022-10-17T08:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,9 +24,8 @@ publishDate: '2022-04-04T08:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in **FOCS 2022**
+publication: To appear in **SODA 2023**
 
-abstract: We give a fast algorithm for sampling uniform solutions of *general* constraint satisfaction problems (CSPs) in a local lemma regime. The expected running time of our algorithm is near-linear in $n$ and a fixed polynomial in $\Delta$, where $n$ is the number of variables and $\Delta$ is the max degree of constraints. Previously, up to similar conditions, sampling algorithms with running time polynomial in both $n$ and $\Delta$, only existed for the almost atomic case, where each constraint is violated by a small number of forbidden local configurations.  Our sampling approach departs from all previous fast algorithms for sampling LLL, which were based on Markov chains. A crucial step of our algorithm is a recursive marginal sampler that is of independent interests.  Within a local lemma regime, this marginal sampler can draw a random value for a variable according to its marginal distribution, at a local cost independent of the size of the CSP.
 
 # Summary. An optional shortened abstract.
 
