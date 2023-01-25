@@ -24,7 +24,7 @@ publishDate: '2022-10-17T08:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in **SODA 2023**
+publication: in the Proceedings of the 2023 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2023)
 
 
 # Summary. An optional shortened abstract.
