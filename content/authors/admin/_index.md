@@ -14,7 +14,7 @@ organizations:
     url: http://nju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a third-year Ph.D student in the Theory Group in the Department of Computer Science and Technology at Nanjing University. My research interest lies in a broad aspect of computer science. Currently, I am focusing on algorithms for counting and sampling.
+bio: I am currently a third-year Ph.D student in the Theory Group in the Department of Computer Science and Technology at Nanjing University. My research interest lies in a broad aspect of computer science. Currently, I am focusing on algorithms for counting and sampling.
 
 # Interests to show in About widget
 interests:
