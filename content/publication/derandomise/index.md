@@ -43,7 +43,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'Towards_derandomising_MCMC.pdf'
 url_source: ''
 url_video: ''
 
