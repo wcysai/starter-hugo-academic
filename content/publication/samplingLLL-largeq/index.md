@@ -20,13 +20,13 @@ publishDate: '2022-04-04T08:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: to appear in the 65th IEEE Symposium on Foundations of Computer Science (FOCS 2024)
 
-abstract: We present polynomial-time algorithms for approximate counting and sampling solutions to constraint satisfaction problems (CSPs) with atomic constraints within the local lemma regime: $pD^{2+o_q(1)}\lesssim 1.
-$When the domain size $q$ of each variable becomes sufficiently large, this almost matches the known lower bound  $pD^2\gtrsim 1$ for approximate counting and sampling solutions to atomic CSPs [Bezáková et al, SICOMP '19; Galanis, Guo, Wang, TOCT '22], thus establishing an almost tight sampling Lovász local lemma for large domain sizes.
+abstract: We present polynomial-time algorithms for approximate counting and sampling solutions to constraint satisfaction problems (CSPs) with atomic constraints within the local lemma regime: $pD^{2+o_q(1)}\lesssim 1
+$. When the domain size $q$ of each variable becomes sufficiently large, this almost matches the known lower bound  $pD^2\gtrsim 1$ for approximate counting and sampling solutions to atomic CSPs [Bezáková et al, SICOMP '19; Galanis, Guo, Wang, TOCT '22], thus establishing an almost tight sampling Lovász local lemma for large domain sizes.
 
 # Summary. An optional shortened abstract.
 
