@@ -63,5 +63,3 @@ highlight_name: true
 I am Chunyang Wang(王淳扬), a fifth-year Ph.D student in the [Theory Group](http://tcs.nju.edu.cn/) in the [Department of Computer Science and Technology](http://cs.nju.edu.cn/) at [Nanjing University](http://nju.edu.cn/). I am fortunate to have [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/) be my advisor. 
 
 My research interest lies in a broad aspect of computer science. Currently, I am focusing on algorithms for counting and sampling. Here is my [CV](uploads/CV.pdf). 
-
-I am currently looking for 
