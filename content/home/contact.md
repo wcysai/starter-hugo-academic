@@ -15,7 +15,7 @@ content:
   autolink: false
 
   # Contact details (edit or remove options as required)
-  email: wcysai AT smail DOT nju DOT edu DOT com
+  email: wcysai AT smail DOT nju DOT edu DOT cn
   address: 
     street: Xianlin Avenue 163
     city: Nanjing
