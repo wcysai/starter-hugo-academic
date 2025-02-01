@@ -8,7 +8,7 @@ authors:
   - Zongchen Chen
   - Aditya Lonkar
   - admin
-  - Kuang Yang
+  - Kuan Yang
   - YitongYin
 
 # Author notes (optional)
