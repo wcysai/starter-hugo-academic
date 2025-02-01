@@ -5,7 +5,7 @@ title: 'Deterministic counting Lovász local lemma beyond linear programming'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Kun He
+  - KunHe
   - admin
   - YitongYin
 
