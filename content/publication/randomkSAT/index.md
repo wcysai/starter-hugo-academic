@@ -5,10 +5,10 @@ title: 'Counting random k-SAT near the satisfiability threshold'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Zongchen Chen
+  - ZongchenChen
   - Aditya Lonkar
   - admin
-  - Kuan Yang
+  - KuanYang
   - YitongYin
 
 # Author notes (optional)
