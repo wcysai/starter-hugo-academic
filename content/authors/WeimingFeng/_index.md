@@ -6,15 +6,15 @@ title: Weiming Feng
 superuser: false
 
 # Role/position/tagline
-role: Research Associate 
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: School of Informatics, University of Edinburgh
-    url: https://www.ed.ac.uk/informatics
+  - name: School of Computing and Data Science, The University of Hong Kong    
+    url:https://www.cs.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a research associate (postdoc) in the School of Informatics, University of Edinburgh. My research interest lies in theoretical computer science. Currently, I focus on sampling and counting algorithms.
+bio: I am an Assistant Professor at the School of Computing and Data Science at The University of Hong Kong. My research interest lies in theoretical computer science. Currently, I focus on sampling and counting algorithms.
 
 
 
