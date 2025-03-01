@@ -6,15 +6,15 @@ title: Jiaheng Wang
 superuser: false
 
 # Role/position/tagline
-role: Ph.D Student
+role: Postdoc
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: School of Informatics, University of Edinburgh
-    url: https://www.ed.ac.uk/informatics
-
+  - name: Faculty of Informatics and Data Science, University of Regensburg
+    url: https://www.uni-regensburg.de/informatik-data-science/fakultaet/startseite/index.html
+    
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D student at the School of Informatics, University of Edinburgh. My research interest lies in several topics in theoretical computer science.
+bio: I am currently a postdoctoral researcher at the Faculty of Informatics and Data Science, University of Regensburg, working in the Algorithms and Complexity Theory group (Lehrstuhl) led by Radu Curticapean. My research interest lies in several topics in theoretical computer science.
 
 
 
