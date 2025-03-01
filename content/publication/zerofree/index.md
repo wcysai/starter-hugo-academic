@@ -7,7 +7,7 @@ title: 'Phase Transitions via Complex Extensions of Markov Chains'
 authors:
   - JingchengLiu
   - admin
-  - Yixiao Yu
+  - YixiaoYu
   - YitongYin
 
 # Author notes (optional)
