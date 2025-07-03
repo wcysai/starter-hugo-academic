@@ -6,15 +6,14 @@ title: Chunyang Wang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Student 
-
+role: Ph.D.
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Nanjing University
     url: http://nju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a fifth-year Ph.D student in the Theory Group in the Department of Computer Science and Technology at Nanjing University. My research interest lies in a broad aspect of computer science. Currently, I am focusing on algorithms for counting and sampling. 
+bio: I recently completed my Ph.D. study in the Theory Group in the Department of Computer Science and Technology at Nanjing University. My research interest lies in a broad aspect of computer science. Currently, I am focusing on algorithms for counting and sampling. 
 
 # Interests to show in About widget
 interests:
@@ -28,6 +27,9 @@ education:
     - course: BSc in Computer Science
       institution: Nanjing University (NJU)
       year: 2016-2020
+    - course: Ph.D. in Computer Science
+      institution: Nanjing University (NJU)
+      year: 2020-2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -60,6 +62,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am Chunyang Wang(王淳扬), a fifth-year Ph.D student in the [Theory Group](http://tcs.nju.edu.cn/) in the [Department of Computer Science and Technology](http://cs.nju.edu.cn/) at [Nanjing University](http://nju.edu.cn/). I am fortunate to have [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/) be my advisor. 
+I am Chunyang Wang(王淳扬), and I recently completed my Ph.D. in the [Theory Group](http://tcs.nju.edu.cn/) in the [Department of Computer Science and Technology](http://cs.nju.edu.cn/) at [Nanjing University](http://nju.edu.cn/), where I was fortunate to have [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/) be my advisor. 
 
 My research interest lies in a broad aspect of computer science. Currently, I am focusing on algorithms for counting and sampling. Here is my [CV](uploads/CV.pdf). 
