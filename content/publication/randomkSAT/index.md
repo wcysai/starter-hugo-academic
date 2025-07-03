@@ -14,7 +14,7 @@ authors:
 # Author notes (optional)
 
 date: '2025-02-21T08:00:00Z'
-doi: ''
+doi: '10.1145/3717823.3718163'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-04-04T08:00:00Z'
@@ -45,7 +45,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'STOC25.pdf'
 url_source: ''
 url_video: ''
 
