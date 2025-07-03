@@ -6,7 +6,7 @@ title: Chunyang Wang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D.
+role: Doctor
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Nanjing University
