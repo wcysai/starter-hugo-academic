@@ -28,13 +28,7 @@ publication_types: ['1']
 # Publication name and optional abbreviated publication name.
 publication: to appear in International Conference on Randomization and Computation 2025 (RANDOM 2025) 
 
-abstract: For sink-free orientations in graphs of minimum degree at least $3$,
-  we show that there is 
-  a deterministic approximate counting algorithm that runs in time $O((n^{33}/\eps^{32})\log(n/\eps))$,
-  a near-linear time sampling algorithm,
-  and a randomised approximate counting algorithm that runs in time $O((n/\eps)^2\log(n/\eps))$, where $n$ denotes the number of vertices of the input graph and $0<\eps<1$ is the desired accuracy.
-  All three algorithms are based on a local implementation of the sink popping method (Cohn, Pemantle, and Propp, 2002) under the partial rejection sampling framework (Guo, Jerrum, and Liu, 2019). 
-# Summary. An optional shortened abstract.
+abstract: # Summary. An optional shortened abstract.
 
 tags: []
 
