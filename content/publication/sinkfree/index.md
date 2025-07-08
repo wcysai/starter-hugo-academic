@@ -26,7 +26,7 @@ publishDate: '2025-06-24T08:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: to appear in International Conference on Randomization and Computation 2025 (RANDOM 2025) 
+publication: to appear in the 29th International Conference on Randomization and Computation (RANDOM 2025) 
 
 abstract: # Summary. An optional shortened abstract.
 
