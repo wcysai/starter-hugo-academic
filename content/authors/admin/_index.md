@@ -64,4 +64,6 @@ highlight_name: true
 ---
 I am Chunyang Wang(王淳扬), and I recently completed my Ph.D. in the [Theory Group](http://tcs.nju.edu.cn/) in the [Department of Computer Science and Technology](http://cs.nju.edu.cn/) at [Nanjing University](http://nju.edu.cn/), where I was fortunate to have [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/) be my advisor. 
 
+I will be joining [National Institute of Informatics](https://www.nii.ac.jp/en/) (NII) as a postdoctoral researcher in October.
+
 My research interest lies in a broad aspect of computer science. Currently, I am focusing on algorithms for counting and sampling. Here is my [CV](uploads/CV.pdf). 
