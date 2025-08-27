@@ -37,9 +37,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
- links:
- - name: Yixiao's slides
-   url: https://www.yixiaoyu.fun/slides/stoc2025.pdf
+links:
+- name: Yixiao's slides
+  url: https://www.yixiaoyu.fun/slides/stoc2025.pdf
    
 url_pdf: ''
 url_code: ''
