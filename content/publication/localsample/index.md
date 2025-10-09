@@ -24,7 +24,7 @@ publishDate: '2025-10-01T08:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: to appear in t the Proceedings of the 2025 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2025).
+publication: to appear in the Proceedings of the 2025 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2025).
 
 abstract: 
 # Display this page in the Featured widget?
