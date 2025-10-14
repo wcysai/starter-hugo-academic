@@ -14,7 +14,7 @@ authors:
 # Author notes (optional)
 
 date: '2025-06-24T08:00:00Z'
-doi: ''
+doi: '10.4230/LIPIcs.APPROX/RANDOM.2025.60'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-06-24T08:00:00Z'
@@ -26,7 +26,7 @@ publishDate: '2025-06-24T08:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: to appear in the 29th International Conference on Randomization and Computation (RANDOM 2025) 
+publication: in the 29th International Conference on Randomization and Computation (RANDOM 2025) 
 
 abstract: # Summary. An optional shortened abstract.
 
