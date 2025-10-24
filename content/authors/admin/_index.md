@@ -6,7 +6,7 @@ title: Chunyang Wang
 superuser: true
 
 # Role/position/tagline
-role: Doctor
+role: Postdoc
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Nanjing University
@@ -64,6 +64,6 @@ highlight_name: true
 ---
 I am Chunyang Wang(王淳扬), and I recently completed my Ph.D. in the [Theory Group](http://tcs.nju.edu.cn/) in the [Department of Computer Science and Technology](http://cs.nju.edu.cn/) at [Nanjing University](http://nju.edu.cn/), where I was fortunate to have [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/) be my advisor. 
 
-I will be joining [National Institute of Informatics](http://www.nii.ac.jp/en/) (NII, 国立情報学研究所) as a project researcher (postdoc) in November, 2025.
+I will be joining [National Institute of Informatics](http://www.nii.ac.jp/en/) (NII, 国立情報学研究所) as a project researcher (postdoc) in November, 2025, hosted by [Prof. Yuichi Yoshida](https://research.nii.ac.jp/~yyoshida/).
 
 My research interest lies in a broad aspect of computer science. Currently, I am focusing on algorithms for counting and sampling. Here is my [CV](uploads/CV.pdf). 
