@@ -34,9 +34,11 @@ abstract: We present a new framework to derandomise certain Markov chain Monte C
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Jiaheng's slides
+  url: https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fpw384.github.io%2Fassets%2Fslides%2Fcttp_barc.pptx&wdOrigin=BROWSELINK
+- name: Weiming's slides
+  url: https://fwm94.github.io/files/slides/deranmcmc/DeMCMCUSTC.pdf
 
 url_pdf: ''
 url_code: ''
