@@ -35,9 +35,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Talk
+  url: https://www.youtube.com/watch?v=KcTp6XY00zQ
 
 url_pdf: ''
 url_code: ''
