@@ -15,14 +15,14 @@ content:
   autolink: false
 
   # Contact details (edit or remove options as required)
-  email: wcysai AT smail DOT nju DOT edu DOT cn
+  email: wcysai AT foxmail DOT com
   address: 
-    street: Xianlin Avenue 163
-    city: Nanjing
-    region: Jiangsu
-    postcode: '210023'
-    country: China
-    country_code: CN
+    street: 2-1-2 Hitotsubashi 
+    city: Chiyoda-ku
+    region: Tokyo
+    postcode: '101-8430'
+    country: Japan
+    country_code: JP
 
 design:
   columns: '2'
