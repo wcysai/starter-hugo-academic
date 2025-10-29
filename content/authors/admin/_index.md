@@ -62,7 +62,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am Chunyang Wang(王淳扬), currently a project researcher (postdoc) in the [National Institute of Informatics](http://www.nii.ac.jp/en/) (NII, 国立情報学研究所), hosted by [Prof. Yuichi Yoshida](https://research.nii.ac.jp/~yyoshida/).
+I am Chunyang Wang (王淳扬), currently a project researcher (postdoc) in the [National Institute of Informatics](http://www.nii.ac.jp/en/) (NII, 国立情報学研究所), hosted by [Prof. Yuichi Yoshida](https://research.nii.ac.jp/~yyoshida/).
 
 Prior to that, I received my Ph.D. degree in the [Theory Group](http://tcs.nju.edu.cn/) in the [Department of Computer Science and Technology](http://cs.nju.edu.cn/) at [Nanjing University](http://nju.edu.cn/), where I was fortunate to have [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/) be my advisor. 
 
