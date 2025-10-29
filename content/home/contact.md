@@ -15,7 +15,7 @@ content:
   autolink: false
 
   # Contact details (edit or remove options as required)
-  email: wcysai AT foxmail DOT com
+  email: c_wang AT nii DOT ac DOT jp
   address: 
     street: 2-1-2 Hitotsubashi 
     city: Chiyoda-ku
