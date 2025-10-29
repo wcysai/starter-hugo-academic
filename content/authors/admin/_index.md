@@ -19,7 +19,7 @@ bio: I am. My research interest lies in a broad aspect of computer science. Curr
 interests:
   - Algorithms for counting and sampling
   - Computational phase transitions 
-  - Algorithm stability
+  - Algorithmic stability
 
 # Education to show in About widget
 education:
