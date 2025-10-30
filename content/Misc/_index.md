@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 # Competitive Programming
-I had a lot of fun doing competitive programming during my bachelor and doctoral study ([Codeforces Account](https://codeforces.com/profile/Roundgod). 
+I had a lot of fun doing competitive programming during my bachelor and doctoral study ([Codeforces account](https://codeforces.com/profile/Roundgod). 
 
 {{< spoiler text="Fun fact" >}}
 What to do when you fail to solve a [problem](uploads/WFB.pdf) at the ICPC World Finals? Just leave it as a [homework](https://tcs.nju.edu.cn/wiki/index.php?title=%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6_(Spring_2024)/Problem_Set_4)...
