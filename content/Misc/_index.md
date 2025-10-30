@@ -22,11 +22,11 @@ What to do when you fail to solve a [problem](../uploads/WFB.pdf) at the ICPC Wo
 
 I also did some problemsetting in the competitive programming community. Here are some problems I proudly authored: [1](https://codeforces.com/gym/104065/problem/H), [2](https://codeforces.com/gym/104065/problem/K), [3](https://codeforces.com/gym/105632/problem/H), [4](https://ac.nowcoder.com/acm/contest/57358/I), [5](https://ac.nowcoder.com/acm/contest/81598/K).
 
-# Other interests
+# Some other interests
 
 ## Go (Weiqi/围棋)
 
-I enjoyed playing Go. An unforgettable experience is when I contributed to Nanjing University's Champion in the Normal Division of 
+I enjoyed playing Go quite some while ago. An unforgettable experience is contributing to Nanjing University’s championship in the General Division of the 2017 Ing Cup National Collegiate Go Championship (应氏杯全国大学生围棋锦标赛). See [here](https://www.sohu.com/a/165237506_806199) for a report (in Chinese).
 
 {{< spoiler text="Fun fact" >}}
 I aspired to become a professional Go player until the emergence of [AlphaGo](https://en.wikipedia.org/wiki/AlphaGo), which is also the main reason I chose to study Computer Science as my bachelor major.
@@ -34,8 +34,8 @@ I aspired to become a professional Go player until the emergence of [AlphaGo](ht
 
 ## Hearthstone
 
-I enjoyed playing Hearthstone some time ago, and had some competitive records: [1](https://www.hsguru.com/battlefy/tournament/6107b8dba3f8bf704c2fbb09/player/wcysai%231121?stage_id=6128feafc136af119984a05e),[2](https://www.hsguru.com/battlefy/tournament/6154604ce73db130628d7563). 
+I also enjoyed playing Hearthstone some time ago, and even had some competitive records: [1](https://www.hsguru.com/battlefy/tournament/6107b8dba3f8bf704c2fbb09/player/wcysai%231121?stage_id=6128feafc136af119984a05e),[2](https://www.hsguru.com/battlefy/tournament/60b75695c2e3fd31243ff2c3/player/wcysai%231378?stage_id=60cd2691890a1249589579e9). 
 
 ## Poker
 
-I enjoyed studying poker theory. Tried to participate in tournaments for experience and had some [lucky wins](https://www.theasianpokertour.com/series/apt-jeju-south-korea-2025/events/8a316e6d-fe68-4c5a-8e4b-80625702cd86).
+I enjoyed studying poker theory. I also participated in offline tournaments (for experience and fun) and had some [lucky results](https://www.theasianpokertour.com/series/apt-jeju-south-korea-2025/events/8a316e6d-fe68-4c5a-8e4b-80625702cd86).
