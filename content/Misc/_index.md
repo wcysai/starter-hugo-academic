@@ -14,8 +14,10 @@ header:
   image: ""
 ---
 # Competitive Programming
-I had a lot of fun doing competitive programming during my bachelor and doctoral study ([Codeforces account](https://codeforces.com/profile/Roundgod). 
-
+I had a lot of fun doing competitive programming during my bachelor and doctoral study ([Codeforces account](https://codeforces.com/profile/Roundgod)). Here are some selected awards: 
+- 2nd Place, [The 45th International Collegiate Programming Contest, Shenyang Regional](https://board.xcpcio.com/icpc/2020/shenyang) (Teammates: Tianxing Ding, Qicheng Shan)
+- 2nd Place, [The 47th International Collegiate Programming Contest, Nanjing Regional](https://board.xcpcio.com/icpc/47th/nanjing) (Teammates: [Hongyang Liu](https://lhy-gispzjz.github.io/),  [Xinyuan Zhang](https://sites.google.com/view/xinyuanzhang))
+- 6th Place, [The 47th International Collegiate Programming Contest, World Finals](https://icpc.global/worldfinals/scoreboard/2023/scoreboards/47/index.html) (Teammates: [Hongyang Liu](https://lhy-gispzjz.github.io/),  [Xinyuan Zhang](https://sites.google.com/view/xinyuanzhang))
 {{< spoiler text="Fun fact" >}}
 What to do when you fail to solve a [problem](../uploads/WFB.pdf) at the ICPC World Finals? Just leave it as a [homework](https://tcs.nju.edu.cn/wiki/index.php?title=%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6_(Spring_2024)/Problem_Set_4)...
 {{< /spoiler >}}
@@ -29,7 +31,7 @@ I also did some problemsetting in the competitive programming community. Here ar
 I enjoyed playing Go quite some while ago. An unforgettable experience is contributing to Nanjing University’s championship in the General Division of the 2017 Ing Cup National Collegiate Go Championship (应氏杯全国大学生围棋锦标赛). See [here](https://www.sohu.com/a/165237506_806199) for a report (in Chinese).
 
 {{< spoiler text="Fun fact" >}}
-I aspired to become a professional Go player until the emergence of [AlphaGo](https://en.wikipedia.org/wiki/AlphaGo), which is also the main reason I chose to study Computer Science as my bachelor major.
+I aspired to become a professional Go player until the emergence of [AlphaGo](https://en.wikipedia.org/wiki/AlphaGo), which sparked my interest in Computer Science and led me to choose it as my undergraduate major.
 {{< /spoiler >}}
 
 ## Hearthstone
