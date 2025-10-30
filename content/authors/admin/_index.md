@@ -66,4 +66,4 @@ I am Chunyang Wang (王淳扬), currently a project researcher (postdoc) in the 
 
 Prior to that, I received my Ph.D. degree in the [Theory Group](http://tcs.nju.edu.cn/) in the [Department of Computer Science and Technology](http://cs.nju.edu.cn/) at [Nanjing University](http://nju.edu.cn/), where I was fortunate to have [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/) be my advisor. 
 
-My research interest lies in a broad aspect of computer science. Currently, I am focusing on algorithms for counting and sampling, as well as algorithmic stability. Here is my [CV](uploads/CV.pdf). 
+My research interest lies in a broad aspect of computer science. Currently, I am focusing on algorithms for counting and sampling, as well as algorithmic stability. 
