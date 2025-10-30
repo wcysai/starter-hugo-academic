@@ -12,7 +12,7 @@ main:
     weight: 40
   - name: Misc
     url: 'misc'
-    weight: 40
+    weight: 50
   - name: CV
     url: 'uploads/CV.pdf' 
     weight: 60
