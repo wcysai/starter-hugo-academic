@@ -40,4 +40,4 @@ I also enjoyed playing Hearthstone some time ago, and even had some competitive 
 
 ## Poker
 
-I enjoyed studying poker theory. I also participated in offline tournaments (for experience and fun) and had some [lucky results](https://www.theasianpokertour.com/series/apt-jeju-south-korea-2025/events/8a316e6d-fe68-4c5a-8e4b-80625702cd86).
+I enjoyed studying poker theory. I also participated in offline tournaments (for experience and fun) and had some [lucky results](https://www.theasianpokertour.com/news/apt-jeju-2025-side-events-day-7).
