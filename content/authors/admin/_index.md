@@ -16,7 +16,7 @@ organizations:
 bio: I am. My research interest lies in a broad aspect of computer science. Currently, I am focusing on algorithms for counting and sampling, as well as algorithmic stability. 
 
 # Interests to show in About widget
-interests:
+research interests:
   - Algorithms for counting and sampling
   - Computational phase transitions 
   - Algorithmic stability
