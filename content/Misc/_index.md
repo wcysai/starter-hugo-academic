@@ -36,7 +36,7 @@ I aspired to become a professional Go player until the emergence of [AlphaGo](ht
 
 ## Hearthstone
 
-I also enjoyed playing Hearthstone some time ago, and even had some competitive records: [1](https://www.hsguru.com/battlefy/tournament/6107b8dba3f8bf704c2fbb09/player/wcysai%231121?stage_id=6128feafc136af119984a05e),[2](https://www.hsguru.com/battlefy/tournament/60b75695c2e3fd31243ff2c3/player/wcysai%231378?stage_id=60cd2691890a1249589579e9). 
+I also enjoyed playing Hearthstone some time ago, and even had some competitive records: [1](https://www.hsguru.com/battlefy/tournament/6107b8dba3f8bf704c2fbb09/player/wcysai%231121?stage_id=6128feafc136af119984a05e), [2](https://www.hsguru.com/battlefy/tournament/60b75695c2e3fd31243ff2c3/player/wcysai%231378?stage_id=60cd2691890a1249589579e9). 
 
 ## Poker
 
