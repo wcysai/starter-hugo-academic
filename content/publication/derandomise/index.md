@@ -26,7 +26,7 @@ publishDate: '2023-07-01T08:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: in the 64th IEEE Symposium on Foundations of Computer Science (FOCS 2023)
+publication: 'in the 64th IEEE Symposium on Foundations of Computer Science (FOCS 2023)<br>SIAM Journal on Computing (SICOMP) 54(3): 775-813 (2025)'
 
 abstract: We present a new framework to derandomise certain Markov chain Monte Carlo (MCMC) algorithms. As in MCMC, we first reduce counting problems to sampling from a sequence of marginal distributions. For the latter task, we introduce a method called coupling towards the past that can, in logarithmic time, evaluate one or a constant number of variables from a stationary Markov chain state. Since there are at most logarithmic random choices, this leads to very simple derandomisation. We provide two applications of this framework, namely efficient deterministic approximate counting algorithms for hypergraph independent sets and hypergraph colourings, under local lemma type conditions matching, up to lower order factors, their state-of-the-art randomised counterparts.
 
@@ -77,4 +77,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
