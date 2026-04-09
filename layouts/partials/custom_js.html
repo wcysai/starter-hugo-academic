@@ -32,7 +32,11 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   document.querySelectorAll('a').forEach(function (link) {
-    link.textContent = normalizeButtonLabel(getButtonLabel(link));
+    const originalLabel = getButtonLabel(link);
+    const normalizedLabel = normalizeButtonLabel(originalLabel);
+    if (normalizedLabel !== originalLabel) {
+      link.textContent = normalizedLabel;
+    }
     const label = getButtonLabel(link).toLowerCase();
     if (label === 'pdf' || label === 'doi' || label === 'cite') {
       link.remove();

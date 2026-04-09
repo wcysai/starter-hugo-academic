@@ -13,7 +13,7 @@ organizations:
     url: https://www.nii.ac.jp/en/
     
 # Short bio (displayed in user profile at end of posts)
-bio: I am. My research interest lies in a broad aspect of computer science. Currently, I am focusing on algorithms for counting and sampling, as well as algorithmic stability. 
+bio: I am Chunyang Wang (王淳扬), currently a project researcher (postdoc) at the National Institute of Informatics (NII), hosted by Prof. Yuichi Yoshida. My research interests broadly lie in theoretical computer science, especially algorithms for counting and sampling and algorithmic stability.
 
 # Interests to show in About widget
 interests:
