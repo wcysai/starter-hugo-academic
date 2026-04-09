@@ -1,9 +1,62 @@
 <script>
 document.addEventListener('DOMContentLoaded', function () {
+  const journalVersions = new Set(['sicomp', 'jacm', 'toct']);
+
+  function getButtonLabel(link) {
+    return link.textContent.trim();
+  }
+
+  function getButtonRank(label) {
+    const lower = label.toLowerCase();
+    if (lower === 'arxiv') {
+      return 0;
+    }
+    if (lower.endsWith('_ver')) {
+      const venue = lower.slice(0, -4);
+      return journalVersions.has(venue) ? 2 : 1;
+    }
+    return 3;
+  }
+
   document.querySelectorAll('a').forEach(function (link) {
-    if (link.textContent.trim() === 'PDF' || link.textContent.trim() === 'DOI') {
+    const label = getButtonLabel(link).toLowerCase();
+    if (label === 'pdf' || label === 'doi' || label === 'cite') {
       link.remove();
     }
+  });
+
+  const buttonGroups = new Set();
+
+  document.querySelectorAll('a').forEach(function (link) {
+    const parent = link.parentElement;
+    if (!parent) {
+      return;
+    }
+    const label = getButtonLabel(link).toLowerCase();
+    if ((label === 'arxiv' || label.endsWith('_ver')) && parent.querySelectorAll(':scope > a').length > 1) {
+      buttonGroups.add(parent);
+    }
+  });
+
+  buttonGroups.forEach(function (group) {
+    const buttons = Array.from(group.querySelectorAll(':scope > a'));
+    buttons
+      .map(function (button, index) {
+        return {
+          button: button,
+          index: index,
+          rank: getButtonRank(getButtonLabel(button))
+        };
+      })
+      .sort(function (a, b) {
+        if (a.rank !== b.rank) {
+          return a.rank - b.rank;
+        }
+        return a.index - b.index;
+      })
+      .forEach(function (item) {
+        group.appendChild(item.button);
+      });
   });
 });
 </script>
