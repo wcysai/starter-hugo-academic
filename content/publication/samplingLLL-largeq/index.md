@@ -11,7 +11,7 @@ authors:
 # Author notes (optional)
 
 date: '2024-06-24T08:00:00Z'
-doi: '10.1109/FOCS61266.2024.00019'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-06-24T08:00:00Z'
@@ -70,4 +70,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-

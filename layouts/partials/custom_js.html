@@ -1,0 +1,9 @@
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('a').forEach(function (link) {
+    if (link.textContent.trim() === 'PDF' || link.textContent.trim() === 'DOI') {
+      link.remove();
+    }
+  });
+});
+</script>

@@ -12,7 +12,7 @@ authors:
 # Author notes (optional)
 
 date: '2022-04-04T08:00:00Z'
-doi: '10.1109/FOCS54457.2022.00021'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-04-04T08:00:00Z'
@@ -37,7 +37,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Arxiv
+- name: arXiv
   url: https://arxiv.org/pdf/2204.01520
 - name: FOCS_ver
   url: https://ieee-focs.org/FOCS-2022-Papers/pdfs/FOCS2022-4Bu7jGV9xIcveUWYj3oWoi/551900a147/551900a147.pdf

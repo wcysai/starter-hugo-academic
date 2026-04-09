@@ -14,7 +14,7 @@ authors:
 # Author notes (optional)
 
 date: '2025-06-24T08:00:00Z'
-doi: '10.4230/LIPIcs.APPROX/RANDOM.2025.60'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-06-24T08:00:00Z'
@@ -71,4 +71,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-

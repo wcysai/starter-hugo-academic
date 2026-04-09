@@ -14,7 +14,7 @@ authors:
 # Author notes (optional)
 
 date: '2023-07-01T08:00:00Z'
-doi: '10.1109/FOCS57990.2023.00120'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-07-01T08:00:00Z'

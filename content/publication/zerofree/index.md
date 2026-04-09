@@ -13,7 +13,7 @@ authors:
 # Author notes (optional)
 
 date: '2025-02-01T08:00:00Z'
-doi: '10.1145/3717823.3718230'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-01-01T08:00:00Z'
@@ -72,4 +72,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
