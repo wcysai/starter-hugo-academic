@@ -36,9 +36,11 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Arxiv
+  url: https://arxiv.org/pdf/2204.01520
+- name: FOCS_ver
+  url: https://ieee-focs.org/FOCS-2022-Papers/pdfs/FOCS2022-4Bu7jGV9xIcveUWYj3oWoi/551900a147/551900a147.pdf
 
 url_pdf: ''
 url_code: ''
@@ -71,4 +73,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
