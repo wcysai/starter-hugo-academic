@@ -36,9 +36,11 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: arXiv
+  url: https://arxiv.org/pdf/2502.05877
+- name: RANDOM_ver
+  url: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.APPROX/RANDOM.2025.60
 
 url_pdf: ''
 url_code: ''

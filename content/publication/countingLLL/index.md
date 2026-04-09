@@ -35,9 +35,11 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: arXiv
+  url: https://arxiv.org/pdf/2212.14847
+- name: SODA_ver
+  url: https://epubs.siam.org/doi/10.1137/1.9781611977554.ch130
 
 url_pdf: ''
 url_code: ''

@@ -36,6 +36,10 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
+- name: arXiv
+  url: https://arxiv.org/pdf/2307.14872
+- name: FOCS_ver
+  url: https://ieeexplore.ieee.org/document/10756105
 - name: Talk
   url: https://www.youtube.com/watch?v=KcTp6XY00zQ
 

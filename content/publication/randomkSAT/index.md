@@ -36,9 +36,11 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: arXiv
+  url: https://arxiv.org/pdf/2411.02980
+- name: STOC_ver
+  url: https://dl.acm.org/doi/10.1145/3717823.3718163
 
 url_pdf: ''
 url_code: ''

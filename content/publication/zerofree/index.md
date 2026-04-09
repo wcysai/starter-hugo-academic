@@ -38,6 +38,10 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
+- name: arXiv
+  url: https://arxiv.org/pdf/2411.06857
+- name: STOC_ver
+  url: https://dl.acm.org/doi/10.1145/3717823.3718230
 - name: Yixiao's slides
   url: https://www.yixiaoyu.fun/slides/stoc2025.pdf
    

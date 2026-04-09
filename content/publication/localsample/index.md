@@ -31,9 +31,9 @@ abstract:
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: arXiv
+  url: https://arxiv.org/pdf/2502.10795
 
 url_pdf: ''
 url_code: ''
@@ -66,4 +66,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-

@@ -35,6 +35,12 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
+- name: arXiv
+  url: https://arxiv.org/pdf/2211.03487
+- name: FOCS_ver
+  url: https://epubs.siam.org/doi/full/10.1137/24M1663806?af=R
+- name: SICOMP_ver
+  url: https://epubs.siam.org/doi/10.1137/24M1663806
 - name: Weiming's Slides
   url: https://fwm94.github.io/files/slides/deranmcmc/DeMCMCUSTC.pdf
 - name: Weiming's Poster
