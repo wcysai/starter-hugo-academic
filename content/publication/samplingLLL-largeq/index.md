@@ -40,7 +40,7 @@ links:
   url: https://arxiv.org/pdf/2307.14872
 - name: FOCS_ver
   url: https://ieeexplore.ieee.org/document/10756105
-- name: Talk
+- name: talk
   url: https://www.youtube.com/watch?v=KcTp6XY00zQ
 
 url_pdf: ''

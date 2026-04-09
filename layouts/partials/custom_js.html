@@ -6,6 +6,19 @@ document.addEventListener('DOMContentLoaded', function () {
     return link.textContent.trim();
   }
 
+  function normalizeButtonLabel(label) {
+    if (label === 'Slides') {
+      return 'slides';
+    }
+    if (label === 'Talk') {
+      return 'talk';
+    }
+    if (label === 'Poster') {
+      return 'poster';
+    }
+    return label;
+  }
+
   function getButtonRank(label) {
     const lower = label.toLowerCase();
     if (lower === 'arxiv') {
@@ -19,6 +32,7 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   document.querySelectorAll('a').forEach(function (link) {
+    link.textContent = normalizeButtonLabel(getButtonLabel(link));
     const label = getButtonLabel(link).toLowerCase();
     if (label === 'pdf' || label === 'doi' || label === 'cite') {
       link.remove();

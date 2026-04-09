@@ -41,15 +41,15 @@ links:
   url: https://epubs.siam.org/doi/full/10.1137/24M1663806?af=R
 - name: SICOMP_ver
   url: https://epubs.siam.org/doi/10.1137/24M1663806
-- name: Weiming's Slides
+- name: Weiming's slides
   url: https://fwm94.github.io/files/slides/deranmcmc/DeMCMCUSTC.pdf
-- name: Weiming's Poster
+- name: Weiming's poster
   url: https://fwm94.github.io/files/slides/deranmcmc/poster.pdf
-- name: Heng's Slides
+- name: Heng's slides
   url: https://homepages.inf.ed.ac.uk/hguo/slides/cttp.pdf
-- name: Heng's Talk
+- name: Heng's talk
   url: https://www.youtube.com/watch?v=KPJCbC4Iw7g
-- name: Jiaheng's Slides
+- name: Jiaheng's slides
   url: https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fpw384.github.io%2Fassets%2Fslides%2Fcttp_barc.pptx&wdOrigin=BROWSELINK
 
 url_pdf: ''
