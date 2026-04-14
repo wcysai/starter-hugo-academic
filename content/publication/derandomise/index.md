@@ -38,7 +38,7 @@ links:
 - name: arXiv
   url: https://arxiv.org/pdf/2211.03487
 - name: FOCS_ver
-  url: https://epubs.siam.org/doi/full/10.1137/24M1663806?af=R
+  url: https://ieeexplore.ieee.org/document/10353137
 - name: SICOMP_ver
   url: https://epubs.siam.org/doi/10.1137/24M1663806
 - name: Weiming's slides
