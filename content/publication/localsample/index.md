@@ -24,7 +24,7 @@ publishDate: '2025-10-01T08:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: to appear in the 37th ACM-SIAM Symposium on Discrete Algorithms (SODA 2026)
+publication: in the 37th ACM-SIAM Symposium on Discrete Algorithms (SODA 2026)
 
 abstract: 
 # Display this page in the Featured widget?
@@ -34,6 +34,8 @@ featured: true
 links:
 - name: arXiv
   url: https://arxiv.org/pdf/2502.10795
+- name: SODA_ver
+  url: https://epubs.siam.org/doi/10.1137/1.9781611978971.41
 
 url_pdf: ''
 url_code: ''
