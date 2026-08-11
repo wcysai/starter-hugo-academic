@@ -6,7 +6,7 @@ title: Jiaheng Wang
 superuser: false
 
 # Role/position/tagline
-role: HIIT Postdoctoral Fellow
+role: Postdoc
 
 # Organizations/Affiliations to show in About widget
 organizations:
