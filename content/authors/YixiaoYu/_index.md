@@ -6,15 +6,15 @@ title: Yixiao Yu
 superuser: false
 
 # Role/position/tagline
-role: Ph.D. student
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Theory Group, Nanjing University
-    url: http://tcs.nju.edu.cn/
+  - name: Theory Group, School of Computer Science, Nanjing University
+    url: https://tcs.nju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio:  am a second year PhD student in the theory group of NJU. I am adviced by Prof. Jingcheng Liu and Prof. Yitong Yin. I'm interested in TCS. I focus on approximate sampling and counting now.
+bio: I am a third-year Ph.D. student in the Theory Group at Nanjing University, advised by Prof. Jingcheng Liu and Prof. Yitong Yin. My current research focuses on approximate sampling and counting.
 
 
 

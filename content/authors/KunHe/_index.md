@@ -6,15 +6,15 @@ title: Kun He
 superuser: false
 
 # Role/position/tagline
-role: Researcher
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: School of informatics, Renmin University of China
-    url: https://www.ruc.edu.cn/
+  - name: School of Information, Renmin University of China
+    url: https://info.ruc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a researcher in algorithms and complexity in the School of informatics, Renmin University of China. My research focuses on algorithms and probability. Specifically, my main areas of focus lie in the intriguing realms of probabilistic methods and sampling techniques. Furthermore, I enthusiastically explore the captivating fields of quantum computing and theoretical machine learning. In fact, I possess a broad fascination for theoretical problems within scientific research as a whole.
+bio: I am an Associate Professor in the School of Information at Renmin University of China. My research focuses on algorithms and probability, particularly probabilistic methods, sampling, quantum computing, and theoretical machine learning.
 
 
 social:

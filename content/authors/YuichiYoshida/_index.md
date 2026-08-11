@@ -1,11 +1,11 @@
 ---
 title: Yuichi Yoshida
 superuser: false
-role: Professor
+role: Professor / Assistant Director-General
 organizations:
-  - name: National Institute of Informatics
-    url: https://www.nii.ac.jp/en/
-bio: I am a professor at the National Institute of Informatics. My research interests include sublinear-time algorithms, approximation algorithms, constraint satisfaction problems, spectral graph theory, and algorithmic stability.
+  - name: Principles of Informatics Research Division, National Institute of Informatics
+    url: https://www.nii.ac.jp/en/faculty/informatics/
+bio: I am a professor in the Principles of Informatics Research Division at the National Institute of Informatics. My research spans sublinear-time testing, approximation algorithms, constraint satisfaction problems, spectral graph theory, algorithmic stability, and theory-inspired practical algorithms for real-world graphs.
 social:
   - icon: link
     icon_pack: fas

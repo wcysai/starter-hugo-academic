@@ -14,7 +14,7 @@ organizations:
     url: https://www.cs.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Assistant Professor at the School of Computing and Data Science at The University of Hong Kong. My research interest lies in theoretical computer science. Currently, I focus on sampling and counting algorithms.
+bio: I am an Assistant Professor in the School of Computing and Data Science at The University of Hong Kong. My research in theoretical computer science focuses on sampling and counting algorithms, including Markov chain Monte Carlo methods, spatial mixing of Gibbs distributions, and computational phase transitions, with applications in statistics and learning theory.
 
 
 
