@@ -2,6 +2,9 @@
 title: Publications
 cms_exclude: false
 
+cascade:
+  share: false
+
 # View.
 #   1 = List
 #   2 = Compact
