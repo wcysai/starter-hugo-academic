@@ -10,11 +10,11 @@ role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: School of Computer Science at Georgia Tech
-    url: https://scs.gatech.edu/
+  - name: School of Computer Science, Georgia Institute of Technology
+    url: https://www.scs.gatech.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an assistant professor in the School of Computer Science at Georgia Tech. I have broad interests in randomized algorithms, discrete probability, and machine learning. Currently, my research focuses on Markov chain Monte Carlo (MCMC) methods, approximate counting and sampling, and learning and testing of high-dimensional distributions.
+bio: I am an Assistant Professor in the School of Computer Science at Georgia Tech. My research interests include randomized algorithms, discrete probability, and learning theory.
 
 
 

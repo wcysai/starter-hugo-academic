@@ -6,15 +6,15 @@ title: Yitong Yin
 superuser: false
 
 # Role/position/tagline
-role: Professor 
+role: Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Theory Group, Nanjing University
-    url: http://tcs.nju.edu.cn/
+  - name: Theory Group, School of Computer Science, Nanjing University
+    url: https://tcs.nju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a professor in the Theory Group in the Department of Computer Science and Technology at Nanjing University. I am interested in Theoretical Computer Science.
+bio: I am a professor in the Theory Group at the School of Computer Science, Nanjing University. My research interests include randomized algorithms and computational sampling and counting, data structures and lower bounds, and parallel and distributed computing.
 
 
 

@@ -6,15 +6,15 @@ title: Heng Guo
 superuser: false
 
 # Role/position/tagline
-role: Reader 
+role: Reader in Algorithms and Complexity
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: School of Informatics, University of Edinburgh
-    url: https://www.ed.ac.uk/informatics
+    url: https://informatics.ed.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a reader in algorithms and complexity in the School of informatics, University of Edinburgh. My research focuses on algorithms from a complexity perspective.
+bio: I am a Reader in Algorithms and Complexity in the School of Informatics at the University of Edinburgh. My research studies algorithms from a complexity perspective, particularly computational counting and sampling.
 
 
 

@@ -6,15 +6,15 @@ title: Jingcheng Liu
 superuser: false
 
 # Role/position/tagline
-role: Associate Professor 
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Theory Group, Nanjing University
-    url: http://tcs.nju.edu.cn/
+  - name: Theory Group, School of Computer Science, Nanjing University
+    url: https://tcs.nju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Associate Professor in the Theory Group of the Department of Computer Science and Technology at Nanjing University. I am broadly interested in theoretical computer science.
+bio: I am an Associate Professor in the Theory Group at the School of Computer Science, Nanjing University. I am broadly interested in theoretical computer science.
 
 
 

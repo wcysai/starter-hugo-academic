@@ -6,7 +6,7 @@ title: Kuan Yang
 superuser: false
 
 # Role/position/tagline
-role: Assistant Professor
+role: Tenure-track Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: https://jhc.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an assistant professor in the John Hopcroft Center for Computer Science at Shanghai Jiao Tong University. I am interested in many aspects of theoretical computer science, discrete probability and combinatorics. Currently I mainly work on designing and analysing approximation algorithms for counting and sampling problems.
+bio: I am a tenure-track Associate Professor in the John Hopcroft Center for Computer Science at Shanghai Jiao Tong University. My research interests include theoretical computer science, discrete probability, and combinatorics, with a focus on approximation algorithms for counting and sampling problems.
 
 
 social:

@@ -6,15 +6,15 @@ title: Jiaheng Wang
 superuser: false
 
 # Role/position/tagline
-role: Postdoc
+role: HIIT Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Faculty of Informatics and Data Science, University of Regensburg
-    url: https://www.uni-regensburg.de/informatik-data-science/fakultaet/startseite/index.html
+  - name: Helsinki Institute for Information Technology, University of Helsinki
+    url: https://www.hiit.fi/
     
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a postdoctoral researcher at the Faculty of Informatics and Data Science, University of Regensburg, working in the Algorithms and Complexity Theory group (Lehrstuhl) led by Radu Curticapean. My research interest lies in several topics in theoretical computer science.
+bio: I am a HIIT Postdoctoral Fellow at the University of Helsinki, hosted by Mikko Koivisto. My research is in theoretical computer science, with a focus on algorithms and complexity for approximate counting and related combinatorial structures.
 
 
 

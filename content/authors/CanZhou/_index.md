@@ -1,11 +1,11 @@
 ---
 title: Can Zhou
 superuser: false
-role: Graduate Student
+role: Ph.D. Student
 organizations:
-  - name: Theory Group, Nanjing University
+  - name: Theory Group, School of Computer Science, Nanjing University
     url: https://tcs.nju.edu.cn/
-bio: I am a graduate student in the Theory Group in the Department of Computer Science and Technology at Nanjing University, advised by Prof. Yitong Yin. My research interests include the algorithmic Lovász Local Lemma, counting and sampling algorithms, and theoretical parallel computing.
+bio: I am a Ph.D. student in the Theory Group at the School of Computer Science, Nanjing University, advised by Prof. Yitong Yin. My research interests include the algorithmic Lovász Local Lemma, counting and sampling algorithms, and theoretical parallel computing.
 social:
   - icon: link
     icon_pack: fas

@@ -10,11 +10,11 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name:  School of Informatics at the University of Edinburgh
+  - name: School of Informatics, University of Edinburgh
     url: https://informatics.ed.ac.uk/
     
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in the School of Informatics at the University of Edinburgh under the supervision of Heng Guo. I completed my undergraduate degree at the University of California at Santa Cruz.
+bio: I am a Ph.D. student in the School of Informatics at the University of Edinburgh, advised by Heng Guo. My research interests are algorithms and complexity for counting and sampling problems, including counting and reconfiguration of planar structures.
 
 
 
