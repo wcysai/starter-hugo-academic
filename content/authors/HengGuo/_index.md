@@ -6,7 +6,7 @@ title: Heng Guo
 superuser: false
 
 # Role/position/tagline
-role: Reader in Algorithms and Complexity
+role: Reader
 
 # Organizations/Affiliations to show in About widget
 organizations:

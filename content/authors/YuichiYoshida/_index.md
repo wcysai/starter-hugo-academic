@@ -1,7 +1,7 @@
 ---
 title: Yuichi Yoshida
 superuser: false
-role: Professor / Assistant Director-General
+role: Professor
 organizations:
   - name: Principles of Informatics Research Division, National Institute of Informatics
     url: https://www.nii.ac.jp/en/faculty/informatics/
