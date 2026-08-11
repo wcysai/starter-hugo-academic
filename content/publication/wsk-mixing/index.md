@@ -3,8 +3,8 @@ title: 'Approximate Colorwise Tensorization of Entropy and Optimal Mixing of the
 
 authors:
   - admin
-  - Yuichi Yoshida
-  - Zihan Zhang
+  - YuichiYoshida
+  - ZihanZhang
 
 date: '2026-07-11T04:53:06Z'
 publishDate: '2026-07-11T04:53:06Z'

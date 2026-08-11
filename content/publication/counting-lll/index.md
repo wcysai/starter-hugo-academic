@@ -5,8 +5,8 @@ authors:
   - HongyangLiu
   - admin
   - YitongYin
-  - Yiyao Zhang
-  - Can Zhou
+  - YiyaoZhang
+  - CanZhou
 
 date: '2026-08-09T10:05:13Z'
 publishDate: '2026-08-09T10:05:13Z'
