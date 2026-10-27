@@ -10,9 +10,6 @@ main:
   - name: Publications
     url: '#publications'
     weight: 40
-  - name: Misc
-    url: 'misc'
-    weight: 90
   - name: CV
     url: 'uploads/CV.pdf' 
     weight: 60
