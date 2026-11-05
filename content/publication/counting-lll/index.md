@@ -10,7 +10,7 @@ authors:
 
 date: '2026-08-09T10:05:13Z'
 publishDate: '2026-08-09T10:05:13Z'
-lastmod: '2026-09-24T16:49:55Z'
+lastmod: '2026-10-08T13:30:06Z'
 doi: ''
 
 # 3 = Preprint / Working Paper
