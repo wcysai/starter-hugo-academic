@@ -14,7 +14,7 @@ organizations:
     url: https://tcs.nju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a third-year Ph.D. student in the Theory Group at Nanjing University, advised by Prof. Jingcheng Liu and Prof. Yitong Yin. My current research focuses on approximate sampling and counting.
+bio: I am a fourth-year Ph.D. student in the Theory Group at Nanjing University, advised by Prof. Jingcheng Liu and Prof. Yitong Yin. My current research focuses on approximate sampling and counting.
 
 
 

@@ -43,13 +43,15 @@ links:
   url: https://arxiv.org/pdf/2411.02980
 - name: STOC_ver
   url: https://dl.acm.org/doi/10.1145/3717823.3718163
+- name: slides_STOC25
+  url: 'STOC25.pdf'
 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'STOC25.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 

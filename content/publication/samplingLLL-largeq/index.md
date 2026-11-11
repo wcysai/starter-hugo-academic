@@ -43,13 +43,15 @@ links:
   url: https://ieeexplore.ieee.org/document/10756105
 - name: talk
   url: https://www.youtube.com/watch?v=KcTp6XY00zQ
+- name: slides_FOCS24
+  url: 'FOCS24.pdf'
 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'FOCS24.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 

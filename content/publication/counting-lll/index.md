@@ -28,13 +28,15 @@ featured: false
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2608.08616
+  - name: slides_NCTCS26
+    url: 'NCTCS2026.pdf'
 
 url_pdf: 'https://arxiv.org/pdf/2608.08616'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'NCTCS2026.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 

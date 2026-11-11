@@ -44,13 +44,15 @@ links:
   url: https://arxiv.org/pdf/2212.14847
 - name: SODA_ver
   url: https://epubs.siam.org/doi/10.1137/1.9781611977554.ch130
+- name: slides_SODA23
+  url: 'Counting LLL-SODA.pdf'
 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'Counting LLL-SODA.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 

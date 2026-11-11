@@ -41,13 +41,15 @@ links:
   url: https://arxiv.org/pdf/2502.10795
 - name: SODA_ver
   url: https://epubs.siam.org/doi/10.1137/1.9781611978971.41
+- name: slides_SODA26
+  url: 'SODA26.pdf'
 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: 'poster.pdf'
 url_project: ''
-url_slides: 'SODA26.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 

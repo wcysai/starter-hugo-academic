@@ -43,13 +43,15 @@ links:
   url: https://arxiv.org/pdf/2204.01520
 - name: FOCS_ver
   url: https://ieeexplore.ieee.org/document/9996860
+- name: slides_FOCS22
+  url: 'Sampling LLL-FOCS.pdf'
 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'Sampling LLL-FOCS.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
