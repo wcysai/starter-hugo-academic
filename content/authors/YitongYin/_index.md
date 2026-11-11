@@ -25,7 +25,7 @@ social:
     link: https://scholar.google.com/citations?user=IV49eb4AAAAJ&hl=en&oi=sra
   - icon: link
     icon_pack: fas
-    link: http://tcs.nju.edu.cn/yinyt/
+    link: https://tcs.nju.edu.cn/yinyt/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,

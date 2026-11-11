@@ -10,11 +10,11 @@ role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Theory Group, School of Computer Science, Nanjing University
+  - name: Theory Group, Department of Computer Science and Technology, Nanjing University
     url: https://tcs.nju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Associate Professor in the Theory Group at the School of Computer Science, Nanjing University. I am broadly interested in theoretical computer science.
+bio: I am an Associate Professor in the Theory Group at the Department of Computer Science and Technology, Nanjing University. I am broadly interested in theoretical computer science.
 
 
 

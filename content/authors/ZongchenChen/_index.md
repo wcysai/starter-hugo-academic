@@ -14,7 +14,7 @@ organizations:
     url: https://www.scs.gatech.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Assistant Professor in the School of Computer Science at Georgia Tech. My research interests include randomized algorithms, discrete probability, and learning theory.
+bio: I am an Assistant Professor in the School of Computer Science at Georgia Tech. My research focuses on randomized algorithms, discrete probability, and machine learning, with an emphasis on Markov chain Monte Carlo, approximate counting and sampling, and learning and testing high-dimensional distributions.
 
 
 

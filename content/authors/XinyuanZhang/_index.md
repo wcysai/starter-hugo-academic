@@ -1,13 +1,11 @@
 ---
 title: Xinyuan Zhang
 superuser: false
-role: Ph.D. Student
+role: Final-year Ph.D. Student
 organizations:
-  - name: Theory Group, School of Computer Science, Nanjing University
+  - name: Theory Group, Department of Computer Science and Technology, Nanjing University
     url: https://tcs.nju.edu.cn/
-  - name: School of Computer Science, Georgia Institute of Technology
-    url: https://www.scs.gatech.edu/
-bio: I am a Ph.D. student in the Theory Group at Nanjing University, advised by Prof. Yitong Yin, and currently affiliated with Georgia Tech on recent work. My research focuses on combinatorial structures and algorithms, especially Markov chain Monte Carlo methods for sampling and counting.
+bio: I am a final-year Ph.D. student in the Theory Group at the Department of Computer Science and Technology, Nanjing University, advised by Prof. Yitong Yin. My research focuses on combinatorial structures and algorithms, especially MCMC-based sampling and counting algorithms.
 social:
   - icon: link
     icon_pack: fas

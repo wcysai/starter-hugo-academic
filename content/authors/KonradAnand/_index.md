@@ -6,15 +6,15 @@ title: Konrad Anand
 superuser: false
 
 # Role/position/tagline
-role: Postdoctoral Research Associate
+role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: School of Informatics, University of Edinburgh
-    url: https://informatics.ed.ac.uk/
+  - name: Department of Computer Science, University of Oxford
+    url: https://www.cs.ox.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a postdoctoral researcher in the School of Informatics at the University of Edinburgh, hosted by Heng Guo. I work in probability, combinatorics, and algorithms, particularly in counting, sampling, and randomization.
+bio: I am a postdoctoral researcher in Computer Science at the University of Oxford. I work on probabilistic and combinatorial questions in theoretical computer science, especially the design and analysis of algorithms for counting and sampling.
 
 
 

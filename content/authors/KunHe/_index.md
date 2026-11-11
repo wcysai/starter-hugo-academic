@@ -6,7 +6,7 @@ title: Kun He
 superuser: false
 
 # Role/position/tagline
-role: Associate Professor
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,10 @@ organizations:
     url: https://info.ruc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Associate Professor in the School of Information at Renmin University of China. My research focuses on algorithms and probability, particularly probabilistic methods, sampling, quantum computing, and theoretical machine learning.
+bio: I am a researcher in algorithms and complexity at the School of Information, Renmin University of China. My research focuses on algorithms and probability, particularly probabilistic methods, sampling, quantum computing, and theoretical machine learning.
 
 
 social:
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=GobCKH4AAAAJ&hl=en
   - icon: link
     icon_pack: fas
     link: https://hekun-theory.com/
