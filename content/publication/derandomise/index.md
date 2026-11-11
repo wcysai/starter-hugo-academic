@@ -41,6 +41,8 @@ links:
   url: https://ieeexplore.ieee.org/document/10353137
 - name: SICOMP_ver
   url: https://epubs.siam.org/doi/10.1137/24M1663806
+- name: slides_Shonan23
+  url: 'Towards_derandomising_MCMC.pdf'
 - name: Weiming's slides
   url: https://fwm94.github.io/files/slides/deranmcmc/DeMCMCUSTC.pdf
 - name: Weiming's poster
@@ -57,7 +59,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'Towards_derandomising_MCMC.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
