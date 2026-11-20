@@ -30,6 +30,8 @@ featured: false
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2609.32357
+  - name: recording
+    url: https://drive.google.com/file/d/1Y38s6wzII4YWpdxmrUCAybFUYduU2Bds/view?usp=sharing
 
 url_pdf: 'https://arxiv.org/pdf/2609.32357'
 url_code: ''

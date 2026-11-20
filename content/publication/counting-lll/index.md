@@ -30,6 +30,8 @@ links:
     url: https://arxiv.org/abs/2608.08616
   - name: slides_NCTCS26
     url: 'NCTCS2026.pdf'
+  - name: recording
+    url: https://drive.google.com/file/d/19mw2XpKvJaLSEtlQKndDsp14JCnjT9mg/view?usp=sharing
 
 url_pdf: 'https://arxiv.org/pdf/2608.08616'
 url_code: ''
